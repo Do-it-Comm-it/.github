@@ -71,7 +71,7 @@ GUIDER -> PARTNER로서의 확장
 
 | `프론트`안효진 | `프론트`이지원 | `백엔드`박수진 | `백엔드`이형우 |
 |------|------|------|------|
-| <img style="width:100%" src = "https://user-images.githubusercontent.com/69441691/152449984-19a84236-a76b-42f4-80ec-bcb17989e953.png"> | <img style="width:100%" src = "https://user-images.githubusercontent.com/69441691/168215944-cf905728-4197-46aa-bfcf-ae1612ef1192.png"> | <img style="width:100%" src = "https://user-images.githubusercontent.com/69441691/152450125-2bc07b90-09d1-4d3b-aa2b-ef6f5d3cf65a.png"> | <img style="width:100%" src = "https://user-images.githubusercontent.com/69441691/152450217-870ad531-a9c7-4c45-8e8d-ae7b1266e167.png"> |
+| <img style="width:100%" src = "https://user-images.githubusercontent.com/69441691/152449984-19a84236-a76b-42f4-80ec-bcb17989e953.png"> | <img style="width:100%" src = "https://user-images.githubusercontent.com/69441691/168215944-cf905728-4197-46aa-bfcf-ae1612ef1192.png"> | <img style="width:100%" src = "https://user-images.githubusercontent.com/69441691/152450125-2bc07b90-09d1-4d3b-aa2b-ef6f5d3cf65a.png"> | <img style="width:100%" src = "https://user-images.githubusercontent.com/69441691/168217173-18b56160-102f-40c0-b8d2-895d812f3f7f.png"> |
 | [@alexrider94](https://github.com/alexrider94) | [@gbwlxhd97](https://github.com/gbwlxhd97) | [@corazon4815](https://github.com/corazon4815) | [@hyeongwoo-LEE](https://github.com/hyeongwoo-LEE)  |
  
  <br/> 
