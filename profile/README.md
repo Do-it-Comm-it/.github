@@ -64,10 +64,15 @@ GUIDER -> PARTNER로서의 확장
 <br/> 
 
 ## 👨‍👩‍👧‍👧 팀원 소개   
-| `디자인`전예진 | `퍼블리셔`윤창민 | `프론트`장준민(군대가심🤧) | `프론트`안효진 | `백엔드`박수진 | `백엔드`이형우 |
-|------|------|------|------|------|------|
-| <img style="width:100%" src = "https://user-images.githubusercontent.com/69441691/152450115-22a2c0fa-a871-4441-b578-03f8d4c7b4bd.png"> | <img style="width:100%" src = "https://user-images.githubusercontent.com/69441691/152449930-aa2d96ac-26e0-41a7-a648-725fb6bec9f5.png"> | <img style="width:210px" src = "https://user-images.githubusercontent.com/69441691/164464633-9054eb3c-0c95-4bf7-aaaa-3d7724c5bd73.jpg"> | <img style="width:100%" src = "https://user-images.githubusercontent.com/69441691/152449984-19a84236-a76b-42f4-80ec-bcb17989e953.png"> | <img style="width:100%" src = "https://user-images.githubusercontent.com/69441691/152450125-2bc07b90-09d1-4d3b-aa2b-ef6f5d3cf65a.png"> | <img style="width:100%" src = "https://user-images.githubusercontent.com/69441691/152450217-870ad531-a9c7-4c45-8e8d-ae7b1266e167.png"> |
-| [@yejin1995](https://github.com/yejin1995) | [@cmyoon9326](https://github.com/cmyoon9326) | [@junmin-Chang](https://github.com/junmin-Chang) | [@alexrider94](https://github.com/alexrider94) | [@corazon4815](https://github.com/corazon4815) | [@hyeongwoo-LEE](https://github.com/hyeongwoo-LEE)  |
+| `기획자`이혜영 | `디자인`전예진 | `퍼블리셔`윤창민 | `프론트`장준민(군대가심🤧) |
+|------|------|------|------|
+| <img style="width:400px" src = "https://user-images.githubusercontent.com/69441691/168216625-b0b52846-e814-4236-9dee-db811b6b4e8b.png"> | <img style="width:100%" src = "https://user-images.githubusercontent.com/69441691/152450115-22a2c0fa-a871-4441-b578-03f8d4c7b4bd.png"> | <img style="width:100%" src = "https://user-images.githubusercontent.com/69441691/152449930-aa2d96ac-26e0-41a7-a648-725fb6bec9f5.png"> | <img style="width:400px" src = "https://user-images.githubusercontent.com/69441691/164464633-9054eb3c-0c95-4bf7-aaaa-3d7724c5bd73.jpg"> |
+|| [@yejin1995](https://github.com/yejin1995) | [@cmyoon9326](https://github.com/cmyoon9326) | [@junmin-Chang](https://github.com/junmin-Chang) |
+
+| `프론트`안효진 | `프론트`이지원 | `백엔드`박수진 | `백엔드`이형우 |
+|------|------|------|------|
+| <img style="width:100%" src = "https://user-images.githubusercontent.com/69441691/152449984-19a84236-a76b-42f4-80ec-bcb17989e953.png"> | <img style="width:100%" src = "https://user-images.githubusercontent.com/69441691/168215944-cf905728-4197-46aa-bfcf-ae1612ef1192.png"> | <img style="width:100%" src = "https://user-images.githubusercontent.com/69441691/152450125-2bc07b90-09d1-4d3b-aa2b-ef6f5d3cf65a.png"> | <img style="width:100%" src = "https://user-images.githubusercontent.com/69441691/152450217-870ad531-a9c7-4c45-8e8d-ae7b1266e167.png"> |
+| [@alexrider94](https://github.com/alexrider94) | [@gbwlxhd97](https://github.com/gbwlxhd97) | [@corazon4815](https://github.com/corazon4815) | [@hyeongwoo-LEE](https://github.com/hyeongwoo-LEE)  |
  
  <br/> 
  
