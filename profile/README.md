@@ -124,7 +124,7 @@ GUIDER -> PARTNER로서의 확장
 │     ├─ handler
 │     ├─ jwt
 │     ├─ redis
-│     ├─ domain dto
+│     ├─ domain
 │     ├─ dto
 │     ├─ controller
 │     └─ service   
@@ -176,6 +176,6 @@ GUIDER -> PARTNER로서의 확장
 ```
 - AWS Elasctic Beanstalk
 - AWS RDS
-- AWS S3 (추후 예정)
+- AWS S3
 - Github Actions
 ```
