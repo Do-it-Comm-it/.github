@@ -67,7 +67,7 @@ GUIDER -> PARTNER로서의 확장
 | `기획자`이혜영 | `디자인`전예진 | `퍼블리셔`윤창민 | `프론트`장준민(군대가심🤧) |
 |------|------|------|------|
 | <img style="width:400px" src = "https://user-images.githubusercontent.com/69441691/168216625-b0b52846-e814-4236-9dee-db811b6b4e8b.png"> | <img style="width:100%" src = "https://user-images.githubusercontent.com/69441691/152450115-22a2c0fa-a871-4441-b578-03f8d4c7b4bd.png"> | <img style="width:100%" src = "https://user-images.githubusercontent.com/69441691/152449930-aa2d96ac-26e0-41a7-a648-725fb6bec9f5.png"> | <img style="width:400px" src = "https://user-images.githubusercontent.com/69441691/164464633-9054eb3c-0c95-4bf7-aaaa-3d7724c5bd73.jpg"> |
-|| [@yejin1995](https://github.com/yejin1995) | [@cmyoon9326](https://github.com/cmyoon9326) | [@junmin-Chang](https://github.com/junmin-Chang) |
+|[@candy-Heidi](https://github.com/candy-Heidi)| [@yejin1995](https://github.com/yejin1995) | [@cmyoon9326](https://github.com/cmyoon9326) | [@junmin-Chang](https://github.com/junmin-Chang) |
 
 | `프론트`안효진 | `프론트`이지원 | `백엔드`박수진 | `백엔드`이형우 |
 |------|------|------|------|
