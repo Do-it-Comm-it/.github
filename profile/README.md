@@ -1,7 +1,8 @@
 
-# ![image](https://user-images.githubusercontent.com/69441691/152728525-2b47ef81-2665-4c74-be85-393dd31ed254.png) "Do it commit!"
+# ![Group 203](https://user-images.githubusercontent.com/38070150/195345787-e7e327f2-7b95-4d28-8bfe-706c79491753.png) "Do it commit!"
 
 <br/> 
+
 
 ## 🚩 목차
 🔍 [프로젝트 소개](https://github.com/Do-it-Comm-it/.github/blob/master/profile/README.md#-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%86%8C%EA%B0%9C)   
